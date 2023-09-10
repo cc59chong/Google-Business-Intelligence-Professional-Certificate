@@ -1,1 +1,1 @@
-# Intelligence-Professional-Certificate
+# Google-Business-Intelligence-Professional-Certificate
