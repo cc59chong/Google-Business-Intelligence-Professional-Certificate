@@ -2,15 +2,13 @@
 ## Course 1 Foundation of Business Intelligence 
 ### Week 1 Data-driven results through business intelligence
 **Keywords**
-1.	Compare data analysis and business intelligence
-2.	Collaboration with business intelligence partners
-3.	How to create comprehensive BI documents (Key business intelligence documents）
-`the Stakeholder Requirements Document`, `Project Requirements Document`, and `Strategy Document`.
-Case study: MarkIt -- 指导怎么根据meeting notes来完成各个文档
-4.	Case study: FearureBas Part 1: Fine tuning metrics for data collection (这个案例是贯穿3个课程)
-Week 2 Business intelligence tools and techniques
-探索BI流程，其中包括与stakeholders互动，使用tools充分利用可用数据，以及应用快速监控的功能来做出明智的业务决策。外加如何建立professional relationship以及如何寻找mentors。【见之前的帖子】
-划重点
+> 1.	Compare data analysis and business intelligence
+> 2.	Collaboration with business intelligence partners
+> 3.	How to create comprehensive BI documents (Key business intelligence documents）including the Stakeholder Requirements Document, Project Requirements Document, and Strategy Document.
+> 4.  `Case study`: MarkIt -- How to complete documents according to meeting notes
+> 5.  `Case study`: FearureBas **Part 1**: Fine tuning metrics for data collection
+### Week 2 Business intelligence tools and techniques
+**Keywords**
 1.	Know your stakeholders and their goals
 Stakeholders: project sponsor, developer, systems analyst, business stakeholders
 Case study: an e-book company
