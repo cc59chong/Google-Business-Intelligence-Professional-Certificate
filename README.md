@@ -25,3 +25,4 @@
 > 1.	Design effective executive summaries
 > 2.  `Case study`: Wildfire prediction project executive summary
 > 3.	**Project** ：Cyclistic scenario, Google Fiber scenario
+## Course 2 -The Path to Insights: Data Models and Pipelines
