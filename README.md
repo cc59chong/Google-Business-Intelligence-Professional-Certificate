@@ -1,5 +1,5 @@
 # Google-Business-Intelligence-Professional-Certificate
-## Course 1 Foundation of Business Intelligence [Details](https://github.com/cc59chong/Google-Business-Intelligence-Professional-Certificate/tree/main/Course%201-Foundations%20of%20Business%20Intelligence)
+## Course 1 Foundation of Business Intelligence [materials](https://github.com/cc59chong/Google-Business-Intelligence-Professional-Certificate/tree/main/Course%201-Foundations%20of%20Business%20Intelligence)
 #### Week 1 Data-driven results through business intelligence
 **Keywords**
 > 1.	Compare data analysis and business intelligence
