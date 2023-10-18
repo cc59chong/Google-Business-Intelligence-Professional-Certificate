@@ -26,3 +26,14 @@
 > 2.  `Case study`: Wildfire prediction project executive summary
 > 3.	**Project** ：Cyclistic scenario, Google Fiber scenario
 ## Course 2 -The Path to Insights: Data Models and Pipelines
+#### Week 1 Data models and pipelines
+Explore data modeling, common patterns, and database elements; Consider how business requirements determine the type of database system that BI professionals implement; Learn the pipelines and ETL process.<br>
+**Keywords**
+> 1.	fact table, dimension table, star schema, snowflake schema
+> 2.	Database: OLTP vs. OLAP, row-based vs. columnar, distributed vs. single-homed, separated storage and compute vs. combined
+> 3.	Four key elements of database schemas
+> 4.	`Case study`: Database schema--Francisco’s Electronics
+> 5.	BI tools: Azure Analysis Service(AAS), CloudSQL, Looker Studio, Microsoft PowerBI, Pentaho, SSAS SQL Server, Tableau
+> 6.	ETL-specific tools: Apache Nifi, Google DataFlow, IBM InfoSphere Information Server, Microsoft SQL SIS, Oracle Data Integrator, Pentaho Data Integrator, Talend
+> 7.	`Activity`: Create a streaming pipeline in Google Dataflow
+> 8.	`Case study`: Wayfair - Working with stakeholders to create a pipeline
