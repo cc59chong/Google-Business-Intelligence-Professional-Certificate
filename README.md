@@ -35,4 +35,5 @@ Explore data modeling, common patterns, and database elements; Consider how busi
 > 4.	`Case study`: Database schema--Francisco’s Electronics
 > 5.	BI tools: Azure Analysis Service(AAS), CloudSQL, Looker Studio, Microsoft PowerBI, Pentaho, SSAS SQL Server, Tableau
 > 6.	ETL-specific tools: Apache Nifi, Google DataFlow, IBM InfoSphere Information Server, Microsoft SQL SIS, Oracle Data Integrator, Pentaho Data Integrator, Talend
-> 7.	`Case study`: Wayfair - Working with stakeholders to create a pipeline
+> 7.  `Activity`: Create a streaming pipeline in Google Dataflow
+> 8.	`Case study`: Wayfair - Working with stakeholders to create a pipeline
