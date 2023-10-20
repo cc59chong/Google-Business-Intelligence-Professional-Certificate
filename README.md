@@ -27,7 +27,7 @@
 > 3.	**Project** ：Cyclistic scenario, Google Fiber scenario
 ## Course 2 -The Path to Insights: Data Models and Pipelines
 #### Week 1 Data models and pipelines
-Explore data modeling, common patterns, and database elements; Consider how business requirements determine the type of database system that BI professionals implement; Learn the pipelines and ETL process.<br><br><br>
+Explore data modeling, common patterns, and database elements; Consider how business requirements determine the type of database system that BI professionals implement; Learn the pipelines and ETL process.<br><br>
 **Keywords**
 > 1.	fact table, dimension table, star schema, snowflake schema
 > 2.	Database: OLTP vs. OLAP, row-based vs. columnar, distributed vs. single-homed, separated storage and compute vs. combined
