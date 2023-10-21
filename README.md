@@ -25,7 +25,7 @@
 > 1.	Design effective executive summaries
 > 2.  `Case study`: Wildfire prediction project executive summary
 > 3.	**Project** ：Cyclistic scenario, Google Fiber scenario
-## Course 2 -The Path to Insights: Data Models and Pipelines
+## Course 2 -The Path to Insights: Data Models and Pipelines [materials](https://github.com/cc59chong/Google-Business-Intelligence-Professional-Certificate/tree/main/Course%202-The%20Path%20to%20Insights%20Data%20Models%20and%20Pipelines)
 #### Week 1 Data models and pipelines
 Explore data modeling, common patterns, and database elements; Consider how business requirements determine the type of database system that BI professionals implement; Learn the pipelines and ETL process.<br><br>
 **Keywords**
