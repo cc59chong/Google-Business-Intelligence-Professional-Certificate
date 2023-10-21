@@ -37,3 +37,21 @@ Explore data modeling, common patterns, and database elements; Consider how busi
 > 6.	ETL-specific tools: Apache Nifi, Google DataFlow, IBM InfoSphere Information Server, Microsoft SQL SIS, Oracle Data Integrator, Pentaho Data Integrator, Talend
 > 7.  `Activity`: Create a streaming pipeline in Google Dataflow
 > 8.	`Case study`: Wayfair - Working with stakeholders to create a pipeline
+#### Week 2 Dynamic database design
+Learn about data lakes, data warehouses, and ETL processes. Examine five factors that affect database performance: workload, throughput, resources, optimization, and contention. How to optimize the database with partition and indexes in BigQuery.<br><br>
+**Keywords**
+> 1.  data warehouse, data mart, data lake
+> 2.	ETL vs. ELT【见前帖】(Tools: Extract/L: Stitch/Segment/Fivetran, Transform: DBT/Airflow/Looker) 
+> 3.	five factors of database performance: workload, throughput, resources, optimization, contention
+> 4.	`Activity`: Partition data and create indexes in BigQuery
+> 5.	`Case study`: Deloitte - Optimizing outdated database systems
+#### Week 3 Optimize ETL processes
+Understand optimization techniques, including ETL quality testing, data schema validation, business rule validation, and general performance testing. Explore data integrity and see how built-in quality checks protect against potential problems. Learn to validate business rules and general performance tests to ensure that the pipeline meets expected business requirements.<br><br>
+**Keywords**
+> 1.	Seven elements of quality with testing: completeness, consistency, conformity, accuracy, redundancy, timeliness, integrity
+> 2.	Monitor data quality with SQL.
+> 3.	Data dictionary, data lineage, schema-validation
+? 4.	`Activity`: Evaluate a schema using a validation checklist 
+> 5.	`Case study`: Arsha--Defend against known issues -Check layer by layer from source to target:：staging layer, harmonization layer, validations layer and reconciliation layer
+#### Week 4 Course 2 end-of-course project
+Continue the project of Course 1, design the pipelines and ETL system, optimize and generate the target table
