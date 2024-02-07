@@ -41,7 +41,7 @@ Explore data modeling, common patterns, and database elements; Consider how busi
 Learn about data lakes, data warehouses, and ETL processes. Examine five factors that affect database performance: workload, throughput, resources, optimization, and contention. How to optimize the database with partition and indexes in BigQuery.<br><br>
 **Keywords**
 > 1.  data warehouse, data mart, data lake
-> 2.	ETL vs. ELT【见前帖】(Tools: Extract/L: Stitch/Segment/Fivetran, Transform: DBT/Airflow/Looker) 
+> 2.	ETL vs. ELT (Tools: Extract/L: Stitch/Segment/Fivetran, Transform: DBT/Airflow/Looker) 
 > 3.	five factors of database performance: workload, throughput, resources, optimization, contention
 > 4.	`Activity`: Partition data and create indexes in BigQuery
 > 5.	`Case study`: Deloitte - Optimizing outdated database systems
