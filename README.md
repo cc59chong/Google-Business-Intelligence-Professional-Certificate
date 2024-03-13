@@ -55,3 +55,37 @@ Understand optimization techniques, including ETL quality testing, data schema v
 > 5.	`Case study`: Arsha--Defend against known issues -Check layer by layer from source to target:：staging layer, harmonization layer, validations layer and reconciliation layer
 #### Week 4 Course 2 end-of-course project
 Continue the project of Course 1, design the pipelines and ETL system, optimize and generate the target table
+## Course 3 Decisions, Decisions: Dashboards and Reports [materials](https://github.com/cc59chong/Google-Business-Intelligence-Professional-Certificate/tree/main/Course%203-Decisions%2C%20Decisions%20Dashboards%20and%20Reports)
+#### Week 1 Business intelligence visualizations 
+Learn about BI dashboards and how they differ from other data analytics dashboards. Learn how to design and create dynamic visualizations that answer business questions.
+**Keywords**
+> 1.	Types of dashboards: strategic, operational, analytic
+> 2.	`Activity`： Design a data visualization mockup 
+> 3.	`Visualization tool`s: Looker Studio, Tableau, Microsoft Power BI, MicroStrategy
+> 4.	Tableau tour以及相关学习资料
+#### Visualize results
+Practice creating charts and visualizations with Tableau. Learn the factors that affect processing speed and how to set permissions.
+**Keywords**
+> 1.	`Case study`: Allegis Group - Visualizing key data to understand and advance employee performance
+> 2.	Design resource guide, and chart guide (how to choose a data visualization)
+> 3.	`Activity`: Create a chart in Tableau (step-by-step instructions)
+> 4.	`Activity`: Lay out dashboard elements in Tableau (step-by-step instructions)
+> 5.	Processing speeds and privacy settings
+#### Week 3 Automate and monitor
+Create dashboards that effectively monitor data over time; Learn how to ask questions and communicate with customers.<br>
+The whole course simulated the actual scenes in the work, created and improved the dashboard according to the back-and-forth Emails requirements of the Supervisor.
+**Keywords**
+> 1.	`Case study`: Minnesota Department of Transportation (Prepare the project)
+>> a.	Activity: Create your charts 
+>> b.	Activity: Create your dashboard
+>> c.	Activity: Iterate on your dashboard
+#### Week4 Present business intelligence insights
+Learn how to present a dashboard, how to prepare a portfolio, resume, interview techniques.
+**Keywords**
+> 1.	Business intelligence presentation example
+> 2.	`Case study`: Ipsos - Informing stakeholders with compelling data visualizations
+> 3.	`Activity`: Design a slide deck for a business intelligence presentation
+> 4.	Career focus: resume, portfolio, interview process, `Interview warmup`
+#### Week 5 Course 3 end-of-course project
+Present an end-to-end business intelligence case study through a complete portfolio, applying knowledge of business intelligence, data pipelines, and dashboards to develop a dashboard in Tableau
+
