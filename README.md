@@ -57,14 +57,14 @@ Understand optimization techniques, including ETL quality testing, data schema v
 Continue the project of Course 1, design the pipelines and ETL system, optimize and generate the target table
 ## Course 3 Decisions, Decisions: Dashboards and Reports [materials](https://github.com/cc59chong/Google-Business-Intelligence-Professional-Certificate/tree/main/Course%203-Decisions%2C%20Decisions%20Dashboards%20and%20Reports)
 #### Week 1 Business intelligence visualizations 
-Learn about BI dashboards and how they differ from other data analytics dashboards. Learn how to design and create dynamic visualizations that answer business questions.
+Learn about BI dashboards and how they differ from other data analytics dashboards. Learn how to design and create dynamic visualizations that answer business questions.<br><br>
 **Keywords**
 > 1.	Types of dashboards: strategic, operational, analytic
 > 2.	`Activity`： Design a data visualization mockup 
 > 3.	`Visualization tool`s: Looker Studio, Tableau, Microsoft Power BI, MicroStrategy
 > 4.	Tableau tour以及相关学习资料
 #### Visualize results
-Practice creating charts and visualizations with Tableau. Learn the factors that affect processing speed and how to set permissions.
+Practice creating charts and visualizations with Tableau. Learn the factors that affect processing speed and how to set permissions.<br><br>
 **Keywords**
 > 1.	`Case study`: Allegis Group - Visualizing key data to understand and advance employee performance
 > 2.	Design resource guide, and chart guide (how to choose a data visualization)
@@ -73,14 +73,14 @@ Practice creating charts and visualizations with Tableau. Learn the factors that
 > 5.	Processing speeds and privacy settings
 #### Week 3 Automate and monitor
 Create dashboards that effectively monitor data over time; Learn how to ask questions and communicate with customers.<br>
-The whole course simulated the actual scenes in the work, created and improved the dashboard according to the back-and-forth Emails requirements of the Supervisor.
+The whole course simulated the actual scenes in the work, created and improved the dashboard according to the back-and-forth Emails requirements of the Supervisor.<br><br>
 **Keywords**
 > 1.	`Case study`: Minnesota Department of Transportation (Prepare the project)
->> a.	Activity: Create your charts 
->> b.	Activity: Create your dashboard
->> c.	Activity: Iterate on your dashboard
+>> a.	Activity: Create your charts <br>
+>> b.	Activity: Create your dashboard <br>
+>> c.	Activity: Iterate on your dashboard <br>
 #### Week4 Present business intelligence insights
-Learn how to present a dashboard, how to prepare a portfolio, resume, interview techniques.
+Learn how to present a dashboard, how to prepare a portfolio, resume, interview techniques.<br><br>
 **Keywords**
 > 1.	Business intelligence presentation example
 > 2.	`Case study`: Ipsos - Informing stakeholders with compelling data visualizations
